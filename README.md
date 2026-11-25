@@ -1,16 +1,18 @@
-# React + Vite
+# 🩺 Centro Médico Las Trinitarias
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing institucional para un centro médico especializado en Reumatología y Clínica Médica, diseñada para facilitar la información clínica y la reserva directa de turnos.
 
-Currently, two official plugins are available:
+## 🔗 **Demo:** *(Agregar link de producción cuando esté desplegado)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Características
+- Secciones completas: Inicio, Quiénes somos, Nuestra Misión, Servicios, El Consultorio, Preguntas Frecuentes y Contacto
+- Canal directo de turnos por WhatsApp con selector dinámico de motivo de consulta (Primera consulta, Reumatología, Capilaroscopia Periungueal, Clínica Médica y Seguimiento)
+- Animaciones fluidas e interacciones con Framer Motion
+- Diseño responsive mobile-first con Tailwind CSS
+- Componentes modulares y reutilizables en React
 
-## React Compiler
+## 🛠️ Tecnologías
+React · Vite · Tailwind CSS · Framer Motion · JavaScript · Git · Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💡 Sobre el proyecto
+Desarrollado a medida para el consultorio médico ubicado en Ramos Mejía, priorizando una identidad visual cálida y profesional, tiempos de carga rápidos y una experiencia intuitiva para que los pacientes encuentren información clara sobre patologías, estudios diagnósticos y modalidades de atención.
